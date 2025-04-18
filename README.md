@@ -35,15 +35,10 @@ git clone https://github.com/your-username/nrl-stats-scraper.git
 cd nrl-stats-scraper
 #Create a Virtual Environment
 
-bash
-Copy
-Edit
 python -m venv venv
 #Activate the Virtual Environment
 
-bash
-Copy
-Edit
+
 # On Windows:
 venv\Scripts\activate
 
@@ -51,9 +46,7 @@ venv\Scripts\activate
 source venv/bin/activate
 #Install Requirements
 
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 #Download Chrome WebDriver
 
