@@ -35,7 +35,7 @@ data-2024-R1-12/
 
 ```bash
 git clone https://github.com/vernon365/NRL.com-Web-Scraper-for-Player---Match-Statistics.git
-cd nrl-stats-scraper
+cd NRL.com-Web-Scraper-for-Player---Match-Statistics
 ```
 
 ### 🧪 Create a Virtual Environment
