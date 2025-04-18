@@ -26,7 +26,7 @@ Example output:
 
 ---
 
-#🚀 How to Use
+```#🚀 How to Use```
 
 #Clone the Repository
 
