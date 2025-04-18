@@ -34,7 +34,7 @@ data-2024-R1-12/
 ### 🔁 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/nrl-stats-scraper.git
+git clone https://github.com/vernon365/NRL.com-Web-Scraper-for-Player---Match-Statistics.git
 cd nrl-stats-scraper
 ```
 
