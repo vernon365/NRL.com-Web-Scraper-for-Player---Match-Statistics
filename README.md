@@ -103,7 +103,7 @@ You can edit this list to include only the rounds/seasons you want.
 
 ---
 
-`## 🪪 License
+## 🪪 License
 
 **MIT License** – free to use, modify, and distribute.
 
