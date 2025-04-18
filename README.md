@@ -83,16 +83,7 @@ pip install -r requirements.txt
 - 📶 Good internet speed is required to fetch all pages smoothly
 - ✅ Install dependencies from `requirements.txt`
 
-### `requirements.txt` should include:
-```
-selenium
-beautifulsoup4
-requests
-pandas
-tqdm
-```
 
----
 
 ## 🧠 **How It Works**
 
